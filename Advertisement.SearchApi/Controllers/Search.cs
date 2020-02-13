@@ -4,7 +4,6 @@ using System.Net;
 using System.Threading.Tasks;
 using Amazon.Runtime.Internal.Util;
 using Microsoft.AspNetCore.Mvc;
-using Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http2;
 using Microsoft.Extensions.Logging;
 using Advertisement.SearchApi.Models;
 using Advertisement.SearchApi.Services;

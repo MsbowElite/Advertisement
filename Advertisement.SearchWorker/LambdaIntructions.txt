@@ -1,0 +1,3 @@
+Advertisement.SearchWorker::Advertisement.SearchWorker.SearchWorker::Function
+dotnet tool install --global Amazon.Lambda.Tools
+dotnet lambda package -c release -o SearchWorker.zip --framework netcoreapp2.1

@@ -1,4 +1,4 @@
-﻿using AdvertApi.Models.Messages;
+﻿using Advertisement.Models.Messages;
 using Amazon.Lambda.Core;
 using Amazon.Lambda.SNSEvents;
 using Nest;

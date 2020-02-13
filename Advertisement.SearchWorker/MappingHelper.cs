@@ -1,5 +1,5 @@
 ﻿using System;
-using AdvertApi.Models.Messages;
+using Advertisement.Models.Messages;
 
 namespace Advertisement.SearchWorker
 {
